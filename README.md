@@ -1,2 +1,5 @@
 # LD38_WorldUnderSiege
-game created for Ludum Dare 38
+
+World Under Siege is a small game created by Ian T. for Ludum Dare 38. The theme for Ludum Dare 38 was "A Small World". The game was created over a 48 hour period.
+
+To play the game, download the WorldUnderSiege_LD38.exe file, then run it.
